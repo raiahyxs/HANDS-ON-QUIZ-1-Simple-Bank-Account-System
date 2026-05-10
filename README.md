@@ -1,6 +1,6 @@
 <div align="center">
 
-# HANDS-ON-QUIZ-1: Simple Bank Account System
+# 🏦 HANDS-ON-QUIZ-1: Simple Bank Account System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -11,7 +11,7 @@
 
 ---
 
-## Overview
+## 🚀 Overview
 
 This repository contains the code and testing evidence for **Hands-On Quiz 1**. The project demonstrates the creation and management of bank account records using Django's powerful ORM.
 
@@ -26,3 +26,18 @@ Below is the visual documentation of the database queries, account creation, and
 </div>
 
 ---
+
+## 🎓 FINALS ITECLEC QUIZZES Collection
+
+Check out the other hands-on projects in this series:
+
+| # | Project Title | Repository Link |
+| :---: | :--- | :--- |
+| **1** | **🏦 Simple Bank Account System** | *📍 Current Repository* |
+| **2** | **🚗 Simple Vehicle Management System** | [🔗 View Repository](https://github.com/raiahyxs/FINALS-HANDS-ON-QUIZ-2-Simple-Vehicle-Management-System) |
+| **3** | **🛒 Simple Online Product Display System** | [🔗 View Repository](https://github.com/raiahyxs/FINALS-HANDS-ON-QUIZ-3-Simple-Online-Product-Display-System) |
+
+<br>
+<div align="center">
+  <i>Developed by <a href="https://github.com/raiahyxs">raiahyxs</a></i>
+</div>
